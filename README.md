@@ -15,13 +15,13 @@ This project combines Natural Language Processing (NLP) and Generative AI to **d
   - Uses Generative AI (e.g., GPT-based models) to create realistic but fake news for research and training purposes.
   - Can simulate misinformation scenarios.
   - ✅ **To generate fake news**, just enter:
-    ```
+    
     Generate Fake news on <your_topic>
-    ```
+    
     Example:
-    ```
+    
     Generate Fake news on Indian elections
-    ```
+    
 
 ---
 
