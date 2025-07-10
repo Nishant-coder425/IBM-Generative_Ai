@@ -9,7 +9,7 @@ This project implements a **Fake News Generator and Detector** using state-of-th
 - **Fake News Generator**:
   - Uses the GPT-2 model from Hugging Face.
   - Input: A topic (e.g., `Generate Fake news on <topic>`).
-  - Output: 5 generated fake news headlines based on the input topic.
+  - Output: generated fake news headlines based on the input topic.
 
 - **Fake News Detector**:
   - Uses a fine-tuned BERT model (`jy46604790/Fake-News-Bert-Detect`).
